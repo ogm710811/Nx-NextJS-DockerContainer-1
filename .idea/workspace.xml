@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="877b5135-ec3b-467a-ba13-1a647b464343" name="Changes" comment="Update Dockerfile and Docker Context&#10;&#10;Dockerfile for app-1 has been updated to copy specific configuration files instead of copying all at once. Docker context in 'docker-compose.yml' is changed to the current directory. Additionally, Git VCS mapping added to the '.idea/vcs.xml' file and the duration of a work item has been updated in '.idea/workspace.xml'.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vista-next/apps/app-1/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/vista-next/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vista-next/apps/app-1/Dockerfile-0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vista-next/apps/app-2/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vista-next/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/vista-next/package-lock.json" afterDir="false" />
-    </list>
+    <list default="true" id="877b5135-ec3b-467a-ba13-1a647b464343" name="Changes" comment="Update Dockerfile and Docker Context&#10;&#10;Dockerfile for app-1 has been updated to copy specific configuration files instead of copying all at once. Docker context in 'docker-compose.yml' is changed to the current directory. Additionally, Git VCS mapping added to the '.idea/vcs.xml' file and the duration of a work item has been updated in '.idea/workspace.xml'." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +49,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/projects/vistahome_2",
+    "last_opened_file_path": "D:/projects/vistahome_1",
     "list.type.of.created.stylesheet": "SCSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -66,6 +59,20 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "ts.external.directory.path": "D:\\projects\\vistahome\\vista-next\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "dev.nx.console.project_details_files": [
+      "D:\\projects\\vistahome_1\\vista-next\\apps\\app-1\\project.json",
+      "D:\\projects\\vistahome_1\\vista-next\\apps\\app-1\\package.json",
+      "D:\\projects\\vistahome_1\\vista-next\\apps\\app-1-e2e\\project.json",
+      "D:\\projects\\vistahome_1\\vista-next\\apps\\app-1-e2e\\package.json",
+      "D:\\projects\\vistahome_1\\vista-next\\apps\\app-2\\project.json",
+      "D:\\projects\\vistahome_1\\vista-next\\apps\\app-2\\package.json",
+      "D:\\projects\\vistahome_1\\vista-next\\apps\\app-2-e2e\\project.json",
+      "D:\\projects\\vistahome_1\\vista-next\\apps\\app-2-e2e\\package.json",
+      "D:\\projects\\vistahome_1\\vista-next\\style-lib\\project.json",
+      "D:\\projects\\vistahome_1\\vista-next\\style-lib\\package.json"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -100,6 +107,7 @@
       <workItem from="1712160316979" duration="9913000" />
       <workItem from="1712180011173" duration="2587000" />
       <workItem from="1712187066861" duration="32000" />
+      <workItem from="1712190236343" duration="256000" />
     </task>
     <task id="LOCAL-00001" summary="Update Dockerfile and Docker Context&#10;&#10;Dockerfile for app-1 has been updated to copy specific configuration files instead of copying all at once. Docker context in 'docker-compose.yml' is changed to the current directory. Additionally, Git VCS mapping added to the '.idea/vcs.xml' file and the duration of a work item has been updated in '.idea/workspace.xml'.">
       <option name="closed" value="true" />
