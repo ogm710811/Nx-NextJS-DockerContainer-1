@@ -1,0 +1,11 @@
+// libs/style-lib/src/lib/styles.scss
+
+// Override Bootstrap's variables
+$theme-colors: (
+  "primary": #007bff,
+  "secondary": #6c757d,
+  // other overrides...
+);
+
+// Import Bootstrap SASS files
+@import '~bootstrap/scss/bootstrap';

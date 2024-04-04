@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="877b5135-ec3b-467a-ba13-1a647b464343" name="Changes" comment="Update Dockerfile and Docker Context&#10;&#10;Dockerfile for app-1 has been updated to copy specific configuration files instead of copying all at once. Docker context in 'docker-compose.yml' is changed to the current directory. Additionally, Git VCS mapping added to the '.idea/vcs.xml' file and the duration of a work item has been updated in '.idea/workspace.xml'.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vista-next/apps/app-1/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/vista-next/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vista-next/apps/app-1/Dockerfile-0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vista-next/apps/app-2/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vista-next/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/vista-next/package-lock.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dockerfile" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2eU4h7pAAAnEjy9e4krVToczDaB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/projects/vistahome_2",
+    "list.type.of.created.stylesheet": "SCSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "ts.external.directory.path": "D:\\projects\\vistahome\\vista-next\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\projects\vistahome\vista-next" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\projects\vistahome_1\vista-next" />
+      <recent name="D:\projects\vistahome" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_402-corretto-1.8.0_402-4caba194b151-ae57be32" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="877b5135-ec3b-467a-ba13-1a647b464343" name="Changes" comment="" />
+      <created>1711945940570</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711945940570</updated>
+      <workItem from="1711945942516" duration="70000" />
+      <workItem from="1711946035603" duration="6266000" />
+      <workItem from="1711992701090" duration="16326000" />
+      <workItem from="1712079703504" duration="10030000" />
+      <workItem from="1712109255416" duration="12224000" />
+      <workItem from="1712160316979" duration="9913000" />
+      <workItem from="1712180011173" duration="2587000" />
+      <workItem from="1712187066861" duration="32000" />
+    </task>
+    <task id="LOCAL-00001" summary="Update Dockerfile and Docker Context&#10;&#10;Dockerfile for app-1 has been updated to copy specific configuration files instead of copying all at once. Docker context in 'docker-compose.yml' is changed to the current directory. Additionally, Git VCS mapping added to the '.idea/vcs.xml' file and the duration of a work item has been updated in '.idea/workspace.xml'.">
+      <option name="closed" value="true" />
+      <created>1712142461811</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712142461811</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/vista-next" />
+    </ignored-roots>
+    <MESSAGE value="Update Dockerfile and Docker Context&#10;&#10;Dockerfile for app-1 has been updated to copy specific configuration files instead of copying all at once. Docker context in 'docker-compose.yml' is changed to the current directory. Additionally, Git VCS mapping added to the '.idea/vcs.xml' file and the duration of a work item has been updated in '.idea/workspace.xml'." />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Dockerfile and Docker Context&#10;&#10;Dockerfile for app-1 has been updated to copy specific configuration files instead of copying all at once. Docker context in 'docker-compose.yml' is changed to the current directory. Additionally, Git VCS mapping added to the '.idea/vcs.xml' file and the duration of a work item has been updated in '.idea/workspace.xml'." />
+  </component>
+</project>

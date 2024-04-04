@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  app-1:
+    build:
+      context: ./vista-next  # This points to the Nx workspace directory
+    ports:
+      - "3000:3000"
+
+

@@ -1,0 +1,40 @@
+{
+  "name": "app-1",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/app-1",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project app-1 --web",
+  "targets": {
+    "start": {
+      "executor": "@nrwl/next:server",
+      "options": {
+        "buildTarget": "app-1:build",
+        "outputPath": "dist/apps/app-1/.next"
+      }
+    },
+    "build": {
+      "executor": "@nrwl/next:build",
+      "outputs": [
+        "{options.outputPath}"
+      ],
+      "options": {
+        "root": "apps/app-1",
+        "outputPath": "dist/apps/app-1",
+        "tsConfig": "apps/app-1/tsconfig.app.json",
+        "publicPath": "apps/app-1/public"
+      }
+    },
+    "serve": {
+      "executor": "@nrwl/next:server",
+      "options": {
+        "buildTarget": "app-1:build"
+      },
+      "configurations": {
+        "production": {
+          "buildTarget": "app-1:build:production"
+        }
+      }
+    }
+  }
+}

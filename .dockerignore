@@ -1,0 +1,57 @@
+# Node modules
+vista-next/node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# Nx cache
+.nx/cache/
+
+# Dist folder
+dist/
+
+# Temporary files
+tmp/
+/out-tsc/
+
+# IDEs and editors
+.idea/
+.vscode/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Logs
+*.log
+
+# Miscellaneous
+.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+npm-debug.log
+yarn-error.log
+testem.log
+/typings
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Ignore all files starting with a dot except .dockerignore and .env
+.*
+
+# Allow specific dotfiles
+!.dockerignore
+!.env*
+
+# OS generated files
+ehthumbs.db
+Icon?
+
+# Ignore all files in the .git directory
+.git/
